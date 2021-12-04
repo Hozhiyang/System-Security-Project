@@ -4,7 +4,7 @@ To Open Github:
 Pycharm Main Menu -->
 get from version Control
 Select Github
-URL: https://github.com/Iangunforlife/Piquant.git
+URL: https://github.com/Hozhiyang/System-Security-Project
 Directory: A Place in ur own computer
 
 To Branch Out: 
